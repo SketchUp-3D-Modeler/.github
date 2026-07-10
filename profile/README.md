@@ -10,7 +10,7 @@
 
 ## What is SketchUp Pro?
 
-SketchUp Pro is a high-precision 3D modeling utility engineered for architects, engineers, construction professionals, and technical designers. It provides a robust, professional-grade platform for creating, visualizing, and modifying complex geometric structures within the Windows environment. By combining an intuitive "push-and-pull" modeling workflow with powerful CAD capabilities, SketchUp Pro serves as an essential tool for project planning, structural drafting, and immersive 3D presentation.
+SketchUp Pro is a high-precision 3D modeling utility engineered for architects, engineers, construction, professionals, and technical designers. It provides a robust, professional-grade platform for creating, visualizing, and modifying complex geometric structures within the Windows environment. By combining an intuitive "push-and-pull" modeling workflow with powerful CAD capabilities, SketchUp Pro serves as an essential tool for project planning, structural drafting, and immersive 3D presentation.
 
 The platform is renowned for its low entry barrier balanced with high-ceiling professional capability. Users can start with simple 2D shapes and extrude them into complex 3D environments, making it ideal for rapid prototyping of architectural concepts and technical layouts. Its engine is optimized for precision, allowing for exact measurements and high-fidelity modeling that meets the rigorous demands of construction and engineering documentation.
 
